@@ -44,13 +44,8 @@ A stylish and functional calculator built using **HTML**, **CSS**, and **JavaScr
 
 ---
 
-## 📂 Project Structure
-├── index.html     # Calculator layout
-├── index.css      # Stylish UI
-├── index.js       # Calculator logic
-└── README.md      # Project documentation
 
----
+
 
 ## 🚀 Getting Started
 
@@ -62,7 +57,7 @@ A stylish and functional calculator built using **HTML**, **CSS**, and **JavaScr
 
 ## ✨ Preview
 
-![Calculator UI](https://user-images.githubusercontent.com/your-image-preview-url)
+[![View Calculator](https://img.shields.io/badge/View%20Calculator-Live-green?style=for-the-badge)](https://theangryybeast.github.io/calculator/)
 
 ---
 
