@@ -1,34 +1,47 @@
-#### Problem statement:
- - Create a simple calculator app.
+# Basic Calculator Web App
 
-#### Technology Used:
- - React Js
- - Java Script
- - HTML
- - CSS
+## 📌 Project Description
+This project is a basic calculator built using **HTML**, **CSS**, and **JavaScript**. It provides a functional interface for performing arithmetic operations and is a great exercise for practicing front-end development skills.
 
- ## Install
+---
 
-To install all the dependences of the project, run the following command:
+## 🚀 Features
 
-    git clone https://github.com/shakti1590/React-Calculator.git
-    yarn install
-    yarn start
+- Simple and clean UI
+- Buttons for digits (0-9), decimal point, and arithmetic operators (+, -, ×, ÷)
+- Clear (`C`) and Equals (`=`) functionality
+- Displays live calculation and results
+- Responsive to both button clicks and keyboard input
 
+---
 
-#### Source Code:
- - Link : https://github.com/shakti1590/React-Calculator
+## 🔧 Project Requirements
 
+### 🖼️ User Interface
+- Input/output display for calculations
+- Buttons for numbers and operators
+- Styled layout using CSS for better usability
 
-#### Deployment Link:
- - Link : https://react-calculator-omega-navy.vercel.app/
+### ⚙️ Functionality
+- Addition, subtraction, multiplication, division
+- Follows BODMAS/BIDMAS order of operations
+- Displays result on the screen dynamically
 
+### 📥 Input Handling
+- Button click interaction
+- Keyboard input support (optional)
 
+### ❌ Error Handling
+- Handles invalid operations like division by zero
+- Clears screen or displays error messages for invalid input
 
-![Project Preview](./src/calc-app.png)
+---
 
+## 💡 Extra Challenges (Optional)
+- Add features like:
+  - Square root, percentage
+  - Memory buttons (M+, M-, MR, MC)
+  - Theme switcher
+  - Calculation history
 
-
-<p align="center">
-  Show some :heart: by starring the repository.
-</p>
+---
